@@ -18,8 +18,8 @@ Clone the git repository anywhere:
 
 
 ## Usage
-Move .vim directory into ~/
-Move .vimrc file into ~/
+* Move .vim directory into ~/
+* Move .vimrc file into ~/
 
 ## To Do
 * Need to cleanup vimrcs
