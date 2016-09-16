@@ -5,7 +5,7 @@
 Awesome VIM plugins to pimp your VIM today!
 
 ## Requirements
-No current requirements
+* Install GIT for GIT plugins to work
 
 ## Installation
 Clone the git repository anywhere:
@@ -18,6 +18,7 @@ Clone the git repository anywhere:
 
 
 ## Usage
+* Extract dotvim.tgz 
 * Move .vim directory into ~/
 * Move .vimrc file into ~/
 
