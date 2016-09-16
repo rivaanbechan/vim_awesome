@@ -25,10 +25,10 @@ Clone the git repository anywhere:
 * Move .vimrc file into ~/
 
 ## Quick Command Shortcuts
-* <F2> open NerdTree
-* <F10> toggle line numbers
-* <F12> toggle theme
-* <F3> opens hacker news
+* `<F2>` open NerdTree
+* `<F10>` toggle line numbers
+* `<F12>` toggle theme
+* `<F3>` opens hacker news
 
 ## To Do
 * Need to cleanup vimrcs
