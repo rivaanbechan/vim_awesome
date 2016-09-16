@@ -12,12 +12,7 @@ Check .vimrc for a list of plugins.
 ## Installation
 Clone the git repository anywhere:
 
-    git clone http://10.0.0.2/rivaan/vim_awesome.git && cd vim_awesome
-
-... or if local DNS is working:
-
-    git clone http://gitlab.gsoc.local/rivaan/vim_awesome.git && cd vim_awesome
-
+    git clone https://github.com/rivaanbechan/vim_awesome.git && cd vim_awesome
 
 ## Usage
 * Extract dotvim.tgz 
